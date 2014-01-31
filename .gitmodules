@@ -1,3 +1,3 @@
 [submodule "wclib"]
 	path = wclib
-	url = git@github.com:zwh-labs/wclib.git
+	url = git://github.com/zwh-labs/wclib.git
